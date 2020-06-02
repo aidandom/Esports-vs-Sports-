@@ -1,5 +1,5 @@
-# Esports vs Sports! 
-A project using web APIs & NLP
+# Esports vs Sports! - Web APIs & NLP
+
 
 ### Problem Statement
 
